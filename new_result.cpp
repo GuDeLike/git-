@@ -7,7 +7,11 @@ using namespace std;
 signed main(){
     int a,b;
     cin>>a>>b;
-    cout<<a+b<<endl;
+    int c;
+    cin>>c;
     
+    cout<<a+b<<endl;
+    cout<<a+b+c<<endl;
+
     return 0;
 }
