@@ -12,6 +12,10 @@ signed main(){
     
     cout<<a+b<<endl;
     cout<<a+b+c<<endl;
+    int d;
+    cin>>d;
+    cout<<a+b+c+d<<endl;
+    
 
     return 0;
 }
