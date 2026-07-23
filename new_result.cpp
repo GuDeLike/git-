@@ -12,6 +12,8 @@ signed main(){
     
     cout<<a+b<<endl;
     cout<<a+b+c<<endl;
+    cout<<"写完了"<<endl;
+    
     int d;
     cin>>d;
     cout<<a+b+c+d<<endl;
